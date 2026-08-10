@@ -2,7 +2,7 @@
 
 # 合月亭｜免费二次元资源站点目录
 
-[合月亭主站项目地址](https://sway.cloud.microsoft/VijU8jOHnEPt8GTP?ref=Link)
+[合月亭主站项目地址](https://heyue-org.github.io/web/Navigation.html)
 
 [谷歌在线文档](https://docs.google.com/spreadsheets/d/1wwj4RC_W1zDhI2dlt1NmsFE9DMUKGHs-02lwWbFe9Kk/edit?usp=sharing)
 
