@@ -40,4 +40,4 @@
 | WIKI | GAL/番百科、资料库类 |
 | 英灵殿 | 关停/故障的站点 |
 
-[友情链接](https://sway.cloud.microsoft/Y9D1NnRwrDDvdvEC?ref=Link) | [联系我们](https://sway.cloud.microsoft/RCHB838WFWEcofVH?ref=Link)
+[友情链接](https://heyue-org.github.io/web/Friend_Links.html) | [联系我们](https://heyue-org.github.io/web/ContactDMCA.html)
