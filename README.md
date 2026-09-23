@@ -2,9 +2,9 @@
 
 # 合月亭｜免费二次元资源站点目录
 
-[合月亭主站项目地址](https://heyue-org.github.io/web/Navigation.html)
+[网页版](https://heyue-org.github.io/web/Navigation.html)
 
-[谷歌在线文档](https://docs.google.com/spreadsheets/d/1wwj4RC_W1zDhI2dlt1NmsFE9DMUKGHs-02lwWbFe9Kk/edit?usp=sharing)
+[查看在线文档](https://heyue-org.github.io/web/assets/tools/excel.html)
 
 ### QQ群:[<img src="https://count.getloli.com/@HYT?name=HYT&theme=rule34&padding=9&offset=-3&align=top&scale=1&pixelated=1&darkmode=auto&num=853996356&_=0.17815574692692782" />](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=wWZqzX8EPYK_BG1KVvuLzzrG9SvFhwz5&authKey=JroR1GKyTQL79NyndpCaO3Hb%2BUxRf9Q6ZSK9vM6vgRcH%2FiVGG0%2FudkPwx8MU1we0&noverify=0&group_code=853996356)
 
@@ -22,9 +22,7 @@
 
 4.若您不希望您的网站出现在目录中请联系我们，并附上任意能够证明您管理员身份的资料，我会尽快删除，但恕我们无法干预用户已经下载的离线版。
 
-5.榜单目录分为在线版和离线版，两个在线版链接见上，离线版仅以Excel文件的形式发布，目前还在编辑中，正式版预计8月内发布。
-
-6.以Galgame为主的下载解压解密安装以及应对报错教程：[点我跳转](https://sway.cloud.microsoft/8QkGg57r4ZNC6Cax?ref=Link)
+5.以Galgame为主的下载解压解密安装以及应对报错教程：[点我跳转](https://heyue-org.github.io/web/WIKI.html)
 
 
 ### 离线版文档说明
